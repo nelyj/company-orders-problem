@@ -14,4 +14,4 @@ Lo que se necesita:
 
 La Company Cruz Azul necesita poder hacer las siguientes acciones:
 - Un Jefe de Local: Solo puede ver los pedidos de su local y generar pedidos para su local
-- Un Administrador: Puede ver todos los pedidos de su local y generar pedidos a los locales que el estime conveniente.
+- Un Administrador: Puede ver todos los pedidos todos los locales y generar pedidos a los locales que el estime conveniente.
